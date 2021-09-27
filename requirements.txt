@@ -1,0 +1,8 @@
+auxilium
+bandit
+coverage
+dulwich
+flake8
+Sphinx
+sphinx-math-dollar
+sphinx-rtd-theme
